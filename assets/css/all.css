@@ -1863,6 +1863,10 @@ header .right .button-buy:hover {
     .invoice-inner {
         margin:20px auto 20px auto
     }
+    
+    .modal-body .btn {
+      margin-bottom:20px;
+    }
 }
 
 .invoice-inner footer {
